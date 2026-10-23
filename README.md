@@ -1,8 +1,8 @@
 # Projet de Compression — Clone bzip2, lzma, 7-zip
 
-Projet d'examen : réalisation d'un clone fonctionnel de **bzip2**, **lzma** et **7-zip** en Python pur (sans bibliothèques externes).
+réalisation d'un clone fonctionnel de **bzip2**, **lzma** et **7-zip** en Python pur (sans bibliothèques externes).
 
----
+
 
 ## 1. À quoi sert le projet ?
 
